@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 2,
+        "nombre": "pizza",
+        "marca": "cheddar",
+        "modelo": "Salsa de tomate, muzzarella, panceta, cheddar y oregano",
+        "precio": 1200,
+        "stock": 30,
+        "img": "/img/cheddar.jfif"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "hamburguesa",
+        "marca": "doble chedar",
+        "modelo": "Doble medallon, morron ahumado, cheddar, beacon, cebolla caramelizada y huevo frito.",
+        "precio": 3000,
+        "stock": 30,
+        "img": "/img/doblechedar.jpeg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 2,
+        "nombre": "pizza",
+        "marca": "cuatro quesos",
+        "modelo": "Base sin salsa, con 4 variedades de queso... Parmesano, Muzzarella, Roquefort, brie",
+        "precio": 1500,
+        "stock": 20,
+        "img": "/img/cuatroquesos.jfif"
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Empanadas",
+        "marca": "Humita",
+        "modelo": "Crema de choclos y salsa blanca.",
+        "precio": 1400,
+        "stock": 8,
+        "img": "/img/humita.jfif"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "pizza",
+        "marca": "jamon y queso",
+        "modelo": "Salsa de tomate, muzzarella, jamon, morron asado y oregano",
+        "precio": 2000,
+        "stock": 15,
+        "img": "/img/jamonyqueso.jfif"
+    },
+    {
+        "id": 6,
+        "idCategoria": 3,
+        "nombre": "Ñoquis",
+        "marca": "Ñoquis a la crema",
+        "modelo": "Noquis de verdura, con salsa a los cuatro quesos",
+        "precio": 4000,
+        "stock": 20,
+        "img": "/img/noquiscrema.jpeg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Pizza",
+        "marca": "Napolitana",
+        "modelo": "Salsa de tomate, muzzarela, tomate, ajo, oregano y albahca.",
+        "precio": 2500,
+        "stock": 10,
+        "img": "/img/napolitana.jfif"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Noquis",
+        "marca": "Ñoquis con Bolognesa",
+        "modelo": "Ñoquis de papa caseros con salsa bolognesa. ",
+        "precio": 4500,
+        "stock": 30,
+        "img": "/img/noquisbolonesa.jpeg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 4,
+        "nombre": "Empanadas",
+        "marca": "Pollo",
+        "modelo": "Pollo y cebolla de verdeo",
+        "precio": 34000,
+        "stock": 21,
+        "img": "/img/pollo.jfif"
+    },
+    {
+        "id": 10,
+        "idCategoria": 1,
+        "nombre": "hamburguesa",
+        "marca": "doblerustica",
+        "modelo": "Gigante hamburguesa doble, lechuga, tomate, tres medallones, mucho roquefort, cebolla caramelizada y beacon. Acompañados con papas rusticas",
+        "precio": 13000,
+        "stock": 25,
+        "img": "/img/doblerustica.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 2,
+        "nombre": "Pizza",
+        "marca": "Rucula",
+        "modelo": "Salsa de tomate, muzzarella, jamon crudo, rucula y aceitunas negras.",
+        "precio": 3500,
+        "stock": 30,
+        "img": "/img/rucula.jfif"
+    },
+    {
+        "id": 12,
+        "idCategoria": 1,
+        "nombre": "Hamburguesa",
+        "marca": "triple muzza",
+        "modelo": "Deliciosa hamburguesa, triple medallon, mucha muzza y beacon. Acompañada con fritas.",
+        "precio": 120000,
+        "stock": 20,
+        "img": "/img/triplemuzza.jpeg"
+    }
+]

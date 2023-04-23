@@ -1,8 +1,9 @@
+import { Categorias } from "./Categorias/Categorias";
 import { CartWidget } from "../CartWidget/CartWidget"
 export const Navbar = () => {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg bg-primary">
+            <nav className="navbar navbar-expand-lg bg-primary mb-4">
             <div className="container">
                 <a className="navbar-brand"><i class="bi bi-shop"></i></a>
                 <button
@@ -16,6 +17,13 @@ export const Navbar = () => {
                 >
                 <span className="navbar-toggler-icon" />
                 </button>
+
+             <div className="collapse navbar-collapse">
+                    <Categorias />
+             </div>
+             <i className="bi bi-cart"><CartWidget cantCarrito={0} /></i>   
+             {/* <CartWidget cantCarrito={0} /> */}
+{/* 
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div className="navbar-nav">
                         <a className="nav-link" href="index.html">
@@ -28,7 +36,7 @@ export const Navbar = () => {
                         Computadoras
                         </a>
                         <a className="nav-link" href="compu.html">
-                        <i class="bi bi-cart"><CartWidget cantCarrito={10} /></i>
+                        <i className="bi bi-cart"><CartWidget cantCarrito={0} /></i>
                         
                       
                         </a>
@@ -36,8 +44,8 @@ export const Navbar = () => {
 
                         
                         
-                    </div>
-                </div>    
+                    </div> */}
+                {/* </div>     */}
             </div>
                 
             </nav>

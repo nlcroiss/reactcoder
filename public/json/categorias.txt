@@ -1,0 +1,4 @@
+hamburguesas = 1
+pizzas = 2
+pastas = 3
+empanadas = 4
